@@ -1,7 +1,7 @@
 # PROJECT IDEA HUB : (Bucket in your ideas)
 
 
-##1) Museum_speech_
+## 1) Museum_speech_
 ### Proposed Automated Guide for museum:
      
       
