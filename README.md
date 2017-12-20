@@ -8,9 +8,9 @@
 #### Ideas:
   1. Guide will follow a person Using object tracking (maybe a colored label sticked to the person)
   2. The guide responds to human commands and shares information about museum. (Using Speech Recognition)
-  3. Context based specific QA (Question Answers) session by the guide 
-               - Based on it's current available information about the museum.
-               - Proposed implementation :(DeepQA)chatbots
+  3. Context based specific QA (Question Answers) session by the guide
+     - Based on it's current available information about the museum.
+     - Proposed implementation :(DeepQA)chatbots
 
   4. The Guide is capable of Recognize Artifacts 
                - (Using image processing and Specific Object Recognition module )
