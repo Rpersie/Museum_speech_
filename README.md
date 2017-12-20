@@ -12,11 +12,11 @@
      - Based on it's current available information about the museum.
      - Proposed implementation :(DeepQA)chatbots
 
-  4. The Guide is capable of Recognize Artifacts 
-               - (Using image processing and Specific Object Recognition module )
+  4. The Guide is capable of Recognize Artifacts
+     - (Using image processing and Specific Object Recognition module )
 
   5. The Guide is capable of Recognizing Specific Faces
-               - The guide can distinguish between the museum staff and the visitors.
+     - The guide can distinguish between the museum staff and the visitors.
   6. The Guide is capable of Recognizing Specific Faces 
   
   7. Create a specific path for the robot to move  aI can detect the proximity of the visitors
