@@ -34,6 +34,17 @@
   
   ##### 2. MATLAB
   
+  #### Reference (add here)
+  
+     - ##### 1. DEEPQA (for question answering):
+               - 1. https://github.com/allenai/deep_qa 
+     - ##### 2. Chatbot
+               - 1. https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me  
+     - ##### 3. HMM based Isolated word recognition in python (Github Project)
+               - 1. https://github.com/prakashpandey9/IsolatedSpeechRecognition
+     - ##### 4. Speaker Recognition (Github Project): (Vector Quantization based)
+               - 1. https://github.com/orchidas/Speaker-Recognition
+  
   
   
   
