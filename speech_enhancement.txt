@@ -1,0 +1,43 @@
+  
+# Audio Preprocessing: (Not Feature Extraction)
+
+	** Noise Reduction (Denoising)
+		- microphone based noise
+		- Electrical noise
+		- Environmental Noise
+
+	** Speech Enhancement
+		
+		# Most widely used method:
+			
+			- Spectral Subtraction  (for better noise cancellation)
+				-- oldest and simplest
+		
+		# Comparison of Speech enhancement Techniques :
+	
+			- Weiner Filtering
+			- Adaptive Kalman Filter
+			- Perceptual Weighting Filter
+	
+			**NOTE:  According to ( http://www.iosrjen.org/Papers/vol3_issue10%20(part-3)/G031033744.pdf )
+				**perceptual Weighting Filter manifested better noise cancellation and consumed less cpu time.
+
+	** Far-Field Speech recognition:
+		- Acoustinc Echo Cancellation
+		- Beamforming (Using Multiple microphone arrays)
+
+
+
+
+References:
+	1) http://recognize-speech.com/preprocessing (brief idea about pre-processing)
+	2) https://www.synaptics.com/partners/amazon/ds20921 (Amazon's Alexa: work on far field speech recognition)
+	3) http://excel.fit.vutbr.cz/submissions/2016/048/48.pdf (Far Field Speech Recognition bried idea RP)
+	4) Google Ebook for Beam forming in ASR: https://books.google.co.in/books?id=rFE8DwAAQBAJ&pg=PA80&lpg=PA80&dq=applications+of+beamforming+in+ASR&source=bl&ots=3yVtxKHXFz&sig=y9eW3OfLgEFhjmGI9wyGCzwi1Qg&hl=en&sa=X&ved=0ahUKEwivjJnFlK7YAhXJqY8KHe1RC18Q6AEIXzAI#v=onepage&q=applications%20of%20beamforming%20in%20ASR&f=false
+
+
+Datasets to refer :
+	1) CHIME3
+`	2) AMI
+	3) REVERB
+		.
