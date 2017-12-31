@@ -1,0 +1,63 @@
+# Machine Learning Vs DEEP Learning
+        ## Blogs:
+		https://www.zendesk.com/blog/machine-learning-and-deep-learning/
+
+# To Start with DeepLearning 
+	
+	## Blogs :
+                  1) https://www.codeproject.com/Articles/16419/AI-Neural-Network-for-beginners-Part-of 
+		  
+		  2) Advanced: 
+			http://colah.github.io/  (for visualizing how neural networks work and to learn different types of Neural networks like RNN and CNN)
+		
+	## Videos:
+              ***** Do go through this Video Series
+			https://www.youtube.com/watch?v=vOppzHpvTiQ&t=28s
+
+	
+	## Research Papers:
+		- Most Awesome and cited Deep learning Papers (Search your choice of application)
+		  https://github.com/terryum/awesome-deep-learning-papers
+
+		- Awesome Deep Vision (Computer vision and IP application using Deep learning resources)
+		  https://github.com/kjw0612/awesome-deep-vision
+
+		- Road map of Deeplearning Papers : (compiled repository for multiple applications of Deeplearning)
+		  https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+
+			
+# Handwriting analysis using Neural Networks::
+	
+	# start with tensorflow's simple handwritten digits recognizer 
+		-- make it work in your sytem
+	
+	# Go for handwritten characters recognizer
+	       	-- Refer :
+			1) https://youtu.be/PO4hePKWIGQ
+		-- After recognition try applying simple rules to decide personality based on cerrtain characters
+		  
+
+# Start With Tensorflow
+
+	## Understanding Neural networks with Tensorflow : ( Play with simple Neural Networks and classify multi-dimensional data )
+
+		https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground 
+
+
+# Available Datasets
+
+        handwritten dataset: IAM : http://www.fki.inf.unibe.ch/databases/iam-handwriting-database
+        Chars74K dataset   :       http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
+
+# GITHUB PROJECTS FOR REFERENCE:
+	1) Handwritten recognition with multidimentional lstm
+	--https://github.com/johnsmithm/handwritten-tf-1.0
+
+	2) Handwritten-Names-Recognition
+	-- https://github.com/ikergarcia1996/Handwritten-Names-Recognition
+
+
+References for further studies:
+https://github.com/amaas/stanford_dl_ex
+
+
