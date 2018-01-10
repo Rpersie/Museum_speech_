@@ -26,13 +26,13 @@
 
  #### Hardware can be 
   1. Rasberry pi
-  2. ARM Kits 
+  
    
   
  #### software (We can go for)
   ##### 1. Python
   
-  ##### 2. MATLAB
+  
   
   #### Reference (add here)
   
