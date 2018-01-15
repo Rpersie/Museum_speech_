@@ -1,0 +1,19 @@
+
+
+############### LEARN ABOUT makefile  and Automating c programs ##################################
+
+
+References:
+	Basic start:
+		1) http://www.firmcodes.com/linux/write-first-makefile-c-source-code-linux-tutorial/
+		2) https://www.cprogramming.com/tutorial/makefiles.html
+		
+	detailed:
+		1) https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
+		
+	Videos:
+		1) https://youtu.be/_r7i5X0rXJk
+		
+		2) Automating building with makefiles:
+				https://youtu.be/GExnnTaBELk?list=PLnpfWqvEvRCchcCM-373x2630drhtdWEw
+				
