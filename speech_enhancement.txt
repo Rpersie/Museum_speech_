@@ -40,4 +40,7 @@ Datasets to refer :
 	1) CHIME3
 `	2) AMI
 	3) REVERB
+	
+	
+	https://github.com/peterlee0127/tensorflow-nvJetson/raw/master/tensorflow-1.5.0-cp35-cp35m-linux_aarch64.whl
 		.
